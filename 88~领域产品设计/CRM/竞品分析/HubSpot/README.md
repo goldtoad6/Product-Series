@@ -1,8 +1,8 @@
 # HubSpot
 
-![Customer Journey](https://assets.ng-tech.icu/item/20230720224414.png)
+![Customer Journey](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230720224414.png)
 
-![Flywheel](https://assets.ng-tech.icu/item/20230720224337.png)
+![Flywheel](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230720224337.png)
 
 # CRM Platform
 
